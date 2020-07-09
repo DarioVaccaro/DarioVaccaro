@@ -1,5 +1,4 @@
-<!-- ## Dario Vaccaro - @dariomvvaccaro -->
-
+##
 <!--
 **DarioVaccaro/DarioVaccaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
