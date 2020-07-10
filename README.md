@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Full Stack Developer focused on financial products. I've built multiple successful applications to help stock market traders make money and learn more about the market. My projects have been used by 10's on Thousands and receive more than 500,000 page views annually. Currently I am woking on:
+I'm a Full Stack Developer focused on financial products. I've built multiple successful applications to help stock market traders make money and learn more about the market. My projects have been used by Tens of Thousands and receive more than 500,000 page views annually. Currently I am woking on:
 
 - [Filing:re](https://www.filingre.com)
 - [Filing:re Alerts](https://www.filingre.com/alerts)
