@@ -17,6 +17,7 @@ I'm a Full Stack Developer focused on financial products. I've built multiple su
 - [Filing:re Alerts](https://www.filingre.com/alerts)
 - [OTCMethod](https://www.otcmethod.com)
 - [RuByfi](https://rubyfi.com)
+- [RuByfi Mobile](https://rubyfi.com/mobile)
 
 ### Skills
 - 🐍 Python automation and web scraping
