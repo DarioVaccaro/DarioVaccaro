@@ -18,7 +18,7 @@ I'm a Full Stack Developer focused on financial products. I've built multiple su
 - [OTCMethod](https://www.otcmethod.com)
 - [RuByfi](https://rubyfi.com/features/overview)
 - [RuByfi Mobile](https://rubyfi.com/features/mobile)
-- [KeySpreads](https://keyspreads.com)
+- [Key Spreads](https://keyspreads.com)
 
 ### Skills
 - 🐍 Python automation and web scraping
