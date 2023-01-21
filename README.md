@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Full Stack Developer focused on financial products. I've built multiple successful applications to help stock market traders make money and learn more about the market. My projects have been used by tens of thousands of people and receive more than 1,000,000 page views annually. Currently I am woking on:
+I'm a Full Stack Developer focused on financial products. I've built multiple successful applications to help stock market traders make money and learn more about the market. My projects have been used by tens of thousands of people and receive more than 1,000,000 page views annually. Projects I've built:
 
 - [Filing:re](https://www.filingre.com)
 - [Filing:re Alerts](https://www.filingre.com/alerts)
@@ -19,6 +19,7 @@ I'm a Full Stack Developer focused on financial products. I've built multiple su
 - [RuByfi](https://rubyfi.com/features/overview)
 - [RuByfi Mobile](https://rubyfi.com/features/mobile)
 - [Key Spreads](https://keyspreads.com/?utm_campaign=GitHub&utm_source=GitHub&utm_medium=textlink)
+- [Hart Energy Markets] (https://www.hartenergy.com/markets/data)
 
 ### Skills
 - 🐍 Python automation and web scraping
