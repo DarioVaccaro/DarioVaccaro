@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Full Stack Developer focused on financial products. I've built multiple successful applications to help stock market traders make money and learn more about the market. My projects have been used by tens of thousands of people and receive more than 1,000,000 page views annually. Projects I've built:
+I'm a Full Stack Developer focused on financial products. I've built multiple successful applications to help stock market traders make money and learn more about the market. My projects have been used by tens of thousands of people in over 100 countries, received more than 2,000,000 page views annually and generated over $3 Million dollars in revenue. Projects I've built:
 
 - [Filing:re](https://www.filingre.com)
 - [Filing:re Alerts](https://www.filingre.com/alerts)
