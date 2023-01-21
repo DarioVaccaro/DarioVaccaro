@@ -19,7 +19,7 @@ I'm a Full Stack Developer focused on financial products. I've built multiple su
 - [RuByfi](https://rubyfi.com/features/overview)
 - [RuByfi Mobile](https://rubyfi.com/features/mobile)
 - [Key Spreads](https://keyspreads.com/?utm_campaign=GitHub&utm_source=GitHub&utm_medium=textlink)
-- [Hart Energy Markets] (https://www.hartenergy.com/markets/data)
+- [Hart Energy Markets](https://www.hartenergy.com/markets/data)
 
 ### Skills
 - 🐍 Python automation and web scraping
@@ -33,4 +33,3 @@ I'm a Full Stack Developer focused on financial products. I've built multiple su
 * Twitter - [@dariomvvaccaro](https://twitter.com/dariomvvaccaro)
 * Dribbble - [@dvaccaro](https://dribbble.com/DVaccaro)
 * Youtube - [Dario Vaccaro](https://www.youtube.com/channel/UC0QYSz_oAiwPP6VqQwfyKqA)
-* Email - dario@filingre.com
