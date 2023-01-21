@@ -31,5 +31,5 @@ I'm a Full Stack Developer and Designer focused on financial products. I've buil
 
 ### Contact
 * Twitter - [@dariomvvaccaro](https://twitter.com/dariomvvaccaro)
-* Dribbble - [@dvaccaro](https://dribbble.com/DVaccaro)
+* Dribbble - [@dariovaccaro](https://dribbble.com/DVaccaro)
 * Youtube - [@dariomvvaccaro](https://www.youtube.com/@dariomvvaccaro)
