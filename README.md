@@ -13,7 +13,7 @@
 -->
 I'm a Full Stack Developer and Designer focused on financial products. 
 
-I've built multiple successful applications to help stock traders make money and learn more about the market. My products have been used by tens of thousands of people in over 100 countries, receive more than 2,000,000 page views annually and generated millions of dollars in revenue. Some have been sold/shut down.
+I've built multiple successful applications to help stock traders make money and learn more about the market. My projects have been used by tens of thousands of people in over 100 countries, receive more than 2,000,000 page views annually and generated millions of dollars in revenue. Some have been sold/shut down.
 
 Projects I've built:
 
