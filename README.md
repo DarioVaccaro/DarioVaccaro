@@ -24,6 +24,7 @@ Projects I've built:
 - [RuByfi Mobile](https://rubyfi.com/features/mobile)
 - [Key Spreads](https://keyspreads.com/?utm_campaign=GitHub&utm_source=GitHub&utm_medium=textlink)
 - [HartEnergy Markets](https://www.hartenergy.com/markets/data)
+- [WV Record Search](https://www.wvrecordsearch.com)
 
 ### Skills
 - 🐍 Python automation and web scraping
@@ -32,6 +33,7 @@ Projects I've built:
 - 🗒 Drupal Web CMS
 - ☁️ AWS, Digital Ocean and Heroku Cloud Services
 - 📱 React Native Mobile Frontend
+- 💽 PostgreSQL and MongoDB Databases
 
 ### Contact
 * Twitter - [@dariomvvaccaro](https://twitter.com/dariomvvaccaro)
