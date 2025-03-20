@@ -20,7 +20,7 @@ Projects I've built:
 - [Filing:re](https://www.filingre.com)
 - [Filing:re Alerts](https://www.filingre.com/alerts)
 - [OTCMethod](https://www.otcmethod.com)
-- [RuByfi](https://rubyfi.com/features/overview)
+- [RuByfi](https://www.youtube.com/@rubyfi5607)
 - [RuByfi Mobile](https://rubyfi.com/features/mobile)
 - [Key Spreads](https://keyspreads.com/?utm_campaign=GitHub&utm_source=GitHub&utm_medium=textlink)
 - [HartEnergy Markets](https://www.hartenergy.com/markets/data)
