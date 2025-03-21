@@ -21,7 +21,7 @@ Projects I've built:
 - [Filing:re Alerts](https://www.filingre.com/alerts)
 - [OTCMethod](https://www.otcmethod.com)
 - [RuByfi](https://www.youtube.com/@rubyfi5607)
-- [RuByfi Mobile](https://rubyfi.com/features/mobile)
+- [RuByfi Mobile](https://rubyfi-demo.vercel.app/blog)
 - [Key Spreads](https://keyspreads.com/?utm_campaign=GitHub&utm_source=GitHub&utm_medium=textlink)
 - [HartEnergy Markets](https://www.hartenergy.com/markets/data)
 - [WV Record Search](https://www.wvrecordsearch.com)
