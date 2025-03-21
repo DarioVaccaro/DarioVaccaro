@@ -23,7 +23,7 @@ Projects I've built:
 - [RuByfi](https://www.youtube.com/@rubyfi5607)
 - [RuByfi Mobile](https://rubyfi-demo.vercel.app/blog)
 - [Key Spreads](https://keyspreads.com/?utm_campaign=GitHub&utm_source=GitHub&utm_medium=textlink)
-- [HartEnergy Markets](https://www.hartenergy.com/markets/data)
+- [HartEnergy Markets](https://web.archive.org/web/20240415041240/http://hartenergy.com/markets/data)
 - [WV Record Search](https://www.wvrecordsearch.com)
 
 ### Skills
