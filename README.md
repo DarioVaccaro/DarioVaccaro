@@ -13,7 +13,7 @@
 -->
 I'm a Full Stack Developer and Designer focused on financial products. 
 
-I've built multiple successful applications to help stock traders make money and learn more about the market. My projects have been used by tens of thousands of people in over 100 countries, receive more than 2,000,000 page views annually and generated millions of dollars in revenue. Some have been sold/shut down.
+I've built multiple successful applications to help stock traders make money and learn more about the market. My projects have been used by tens of thousands of people in over 100 countries, receive more than 2,000,000 page views annually and generated millions of dollars in revenue.
 
 Projects I've built:
 
@@ -23,7 +23,7 @@ Projects I've built:
 - [RuByfi](https://www.youtube.com/@rubyfi5607)
 - [RuByfi Mobile](https://rubyfi-demo.vercel.app/blog)
 - [Key Spreads](https://keyspreads.com/?utm_campaign=GitHub&utm_source=GitHub&utm_medium=textlink)
-- [HartEnergy Markets](https://web.archive.org/web/20240415041240/http://hartenergy.com/markets/data)
+- [Hart Energy Markets](https://web.archive.org/web/20240415041240/http://hartenergy.com/markets/data)
 - [WV Record Search](https://www.wvrecordsearch.com)
 
 ### Skills
