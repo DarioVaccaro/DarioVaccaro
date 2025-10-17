@@ -38,4 +38,4 @@ Projects I've built:
 ### Contact
 * Twitter - [@dariomvvaccaro](https://twitter.com/filingre)
 * Dribbble - [@dariovaccaro](https://dribbble.com/dariovaccaro)
-* Instagram - [@dmvvaccaro](https://www.instagram.com/@dmvvaccaro)
+* Instagram - [@dmvvaccaro](https://www.instagram.com/dmvvaccaro)
