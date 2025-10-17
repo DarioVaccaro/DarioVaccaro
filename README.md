@@ -36,6 +36,6 @@ Projects I've built:
 - 💽 PostgreSQL and MongoDB Databases
 
 ### Contact
-* Twitter - [@dariomvvaccaro](https://twitter.com/dariomvvaccaro)
+* Twitter - [@dariomvvaccaro](https://twitter.com/filingre)
 * Dribbble - [@dariovaccaro](https://dribbble.com/dariovaccaro)
-* Youtube - [@dariomvvaccaro](https://www.youtube.com/@dariomvvaccaro)
+* Instagram - [@dmvvaccaro](https://www.instagram.com/@dmvvaccaro)
